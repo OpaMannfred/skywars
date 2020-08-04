@@ -1,0 +1,13 @@
+name: SkyWars
+version: 1.0
+author: Haizon
+main: de.stuporio.skywars.SkyWars
+
+commands:
+  addmap:
+  setloc:
+  stats:
+  build:
+  forcemap:
+  coins:
+  start:
